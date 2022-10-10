@@ -15,6 +15,8 @@
 </img>
 <img align="center" alt= "React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </img>
+<img align="center" alt= "React" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</img>
 </div>
 
 </div><br>
